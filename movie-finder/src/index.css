@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+
+
+main
+{
+    max-width: 1200px;
+    margin: 0 auto;
+    min-height: 90vh;
+    padding: 10px;
+}
+
+
+
